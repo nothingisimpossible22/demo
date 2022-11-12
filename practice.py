@@ -11,3 +11,5 @@ def fizz_buzz(n):
             print(i)
                         
 print(fizz_buzz(6))
+
+print("coding is fun")
