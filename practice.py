@@ -16,3 +16,6 @@ print("coding is fun")
 
 def greet():
     return "Hello World"
+
+def add(a,b):
+    return a + b
