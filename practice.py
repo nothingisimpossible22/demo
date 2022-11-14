@@ -14,8 +14,5 @@ print(fizz_buzz(6))
 
 print("coding is fun")
 
-def greet():
-    return "Hello World"
+print("This is for test")
 
-def add(a,b):
-    return a + b
