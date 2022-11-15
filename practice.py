@@ -23,6 +23,10 @@ print("After branch featurex2 created")
 def featurex2_branch():
     return "featurex2 branch created"
 
+<<<<<<< HEAD
 def greet():
     return "Hello World"
 
+=======
+print("this is new")
+>>>>>>> 99445add9288c03b5c532c04e6a81ee547c251e1
