@@ -26,5 +26,3 @@ def featurex2_branch():
 def greet():
     return "Hello World"
 
-def which_branch():
-    return "This is featurex3"
